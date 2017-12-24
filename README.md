@@ -10,7 +10,7 @@
 
 ## Скачать последний релиз ## 
 
-* https://github.com/BlizD/HistoryStorage/releases/download/081217/HistoryStorage_081217.dt - скачать последний релиз;
+* https://github.com/BlizD/HistoryStorage/releases/download/241217/HistoryStorage_241217.dt - скачать последний релиз;
 
 ##  Если вы хотите доработать HistoryStorage, добро пожаловать :)
 
