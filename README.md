@@ -1,3 +1,5 @@
+[![Github Releases](https://img.shields.io/github/downloads/BlizD/HistoryStorage/latest/total.svg)](https://github.com/BlizD/HistoryStorage/releases)
+
 # Хранилище 1С. Просмотр истории хранилища обработкой #
 
 Недавно пришлось реализовать выгрузку изменений из хранилища 1С для конфигураций, у которых установлен режим совместимости 8.2.13 и ниже. 
