@@ -1,4 +1,6 @@
+[![Github All Releases](https://img.shields.io/github/downloads/BlizD/HistoryStorage/total.svg)]()
 [![Release](https://img.shields.io/github/tag/BlizD/HistoryStorage.svg?label=Last%20release&a)](https://github.com/BlizD/HistoryStorage/releases)
+[![Github Releases](https://img.shields.io/github/downloads/BlizD/HistoryStorage/latest/total.svg)]()
 
 # Хранилище 1С. Просмотр истории хранилища обработкой #
 
